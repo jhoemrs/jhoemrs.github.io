@@ -5,7 +5,7 @@ excerpt: "O Primeiro Commit do blog informações sobre desenvolvimento e tecnol
 tags:
  - Jekyll
  - Git
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: /imagens/postagens/primeiroCommit/primeiroCommit.jpg
 comments: true
 ---
 
