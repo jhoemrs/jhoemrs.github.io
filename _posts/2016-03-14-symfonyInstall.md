@@ -4,7 +4,7 @@ title: "Symfony Install"
 excerpt: "Instale e deixe o Symfony pronto para ser utilizado em seu linux."
 tags:
  - Symfony
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/symfonyInstall/symfonyInstall.jpg
 comments: true
 ---
 

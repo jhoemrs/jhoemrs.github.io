@@ -5,7 +5,7 @@ excerpt: "Instale e deixe o Composer pronto para ser utilizado em seu linux."
 tags:
  - Symfony
  - Composer
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/composerInstall/composerInstall.jpg
 comments: true
 ---
 

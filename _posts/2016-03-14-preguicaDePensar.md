@@ -5,7 +5,7 @@ excerpt: "Seja melhor Desenvolvedor, Pense!"
 tags:
  - Pessoal
  - Pensamentos
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/preguicaDePensar/preguicaDePensar.jpg
 comments: true
 ---
 
