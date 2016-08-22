@@ -5,7 +5,7 @@ excerpt: "Aprenda a Manipular Dados em Arquivos Texto com Python, Criando um Rel
 tags:
  - Python
  - Exercicios
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/criandoRelatorioPython/criandoRelatorioPython.jpg
 comments: true
 ---
 

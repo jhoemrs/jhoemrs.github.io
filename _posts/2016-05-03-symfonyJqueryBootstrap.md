@@ -6,7 +6,7 @@ tags:
  - Symfony
  - Bootstrap
  - Jquery
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/symfonyJqueryBootstrap/symfonyJqueryBootstrap.jpg
 comments: true
 ---
 
