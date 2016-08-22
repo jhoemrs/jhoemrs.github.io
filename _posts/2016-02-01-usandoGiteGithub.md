@@ -5,7 +5,7 @@ excerpt: "Como instalar , configurar e o que é."
 tags:
  - GitHub
  - Git
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/usandoGiteGithub/usandoGiteGithub.png
 comments: true
 ---
 
