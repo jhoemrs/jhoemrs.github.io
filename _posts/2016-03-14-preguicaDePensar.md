@@ -3,8 +3,8 @@ layout: post
 title: "Preguiça de Pensar"
 excerpt: "Seja melhor Desenvolvedor, Pense!"
 tags:
- - Symfony
- - Composer
+ - Pessoal
+ - Pensamentos
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: true
 ---
@@ -53,7 +53,6 @@ E o mais óbvio de todos PENSAR !
 
 <figure>
 	<img src="{{ site.url }}/images/bancoPostagens/preguicaDePensar/speakEnglish.jpg">
-	<figcaption><a data-toggle="tooltip" title="Inglês é Necessário!">Aprenda a entender Inglês!</a></figcaption>
 </figure>
 Gostaria de falar mais sobre a importância de aprender inglês para o programador, mas é quase uma consequência de se programar, então vivencie e entenda o inglês, é indispensável !
 
