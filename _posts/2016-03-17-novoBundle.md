@@ -4,7 +4,7 @@ title: "Novo Bundle Symfony"
 excerpt: "Aprenda a Criar um novo Bundle no Symfony e Limpar o AppBundle()."
 tags:
  - Symfony
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/novoBundle/novoBundle.jpg
 comments: true
 ---
 

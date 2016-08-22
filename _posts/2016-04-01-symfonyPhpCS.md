@@ -4,7 +4,7 @@ title: "Symfony PHP Code Sniffer"
 excerpt: "Symfony Coding Standards Code Sniffer, O que é ? Aprenda e Instale!"
 tags:
  - Symfony
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/symfonyPhpCs/symfonyPhpCs.jpg
 comments: true
 ---
 Symfony PHP Code Sniffer ?!

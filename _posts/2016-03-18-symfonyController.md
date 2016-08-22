@@ -4,7 +4,7 @@ title: "Symfony Controller"
 excerpt: "Aprenda como utilizar e o que é o Controller do Symfony"
 tags:
  - Symfony
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/symfonyController/symfonyController.jpg
 comments: true
 ---
 
