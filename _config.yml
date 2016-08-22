@@ -5,7 +5,7 @@ description:        'Guia Programador é um site desenvolvido por Jhonatan Mark,
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo2.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/back-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
 url:                https://guiaprogramador.com.br
