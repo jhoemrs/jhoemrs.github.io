@@ -4,7 +4,7 @@ title: "Iniciando Projeto Symfony"
 excerpt: "Aprenda a iniciar o Projeto Symfony !"
 tags:
  - Symfony
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/iniciandoProjetoSymfony/iniciandoProjetoSymfony.png
 comments: true
 ---
 

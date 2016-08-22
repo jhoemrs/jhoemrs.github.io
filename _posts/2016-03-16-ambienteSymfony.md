@@ -4,7 +4,7 @@ title: "Ambiente Symfony"
 excerpt: "Arquivos e Pastas Iniciais Symfony"
 tags:
  - Symfony
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/ambienteSymfony/ambienteSymfony.png
 comments: true
 ---
 
