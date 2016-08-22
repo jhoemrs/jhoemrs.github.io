@@ -13,7 +13,7 @@ Hoje iniciaremos o aprendizado sobre Git e Github.
 
 De acordo com a **[Documentação do Git](https://git-scm.com/book/pt-br/v1/Git-Essencial-Trabalhando-com-Remotos)** :
 
-> >Para ser capaz de colaborar com qualquer projeto no Git, você precisa saber como gerenciar seus repositórios remotos. Repositórios remotos são versões do seu projeto que estão hospedados na Internet ou em uma rede em algum lugar. Você pode ter vários deles, geralmente cada um é somente leitura ou leitura/escrita pra você. Colaborar com outros envolve gerenciar esses repositórios remotos e fazer o push e pull de dados neles quando você precisa compartilhar trabalho. Gerenciar repositórios remotos inclui saber como adicionar repositório remoto, remover remotos que não são mais válidos, gerenciar vários branches remotos e defini-los como monitorados ou não, e mais.
+> Para ser capaz de colaborar com qualquer projeto no Git, você precisa saber como gerenciar seus repositórios remotos. Repositórios remotos são versões do seu projeto que estão hospedados na Internet ou em uma rede em algum lugar. Você pode ter vários deles, geralmente cada um é somente leitura ou leitura/escrita pra você. Colaborar com outros envolve gerenciar esses repositórios remotos e fazer o push e pull de dados neles quando você precisa compartilhar trabalho. Gerenciar repositórios remotos inclui saber como adicionar repositório remoto, remover remotos que não são mais válidos, gerenciar vários branches remotos e defini-los como monitorados ou não, e mais.
 
 **Git** é a aplicação , **GitHub** é uma "montagem" desta aplicação.
 
@@ -47,22 +47,22 @@ Simples assim, caso queira usar Ruindows para programar arrume uma máquina virt
 
 Primeiro atualize o seu repositório de aplicações com o famoso:
 
-
-    sudo apt-get update
-
+{% highlight shell %}
+sudo apt-get update
+{% endhighlight %}
 
 Em seguida, basta selecionar o Git e instalar:
 
-
-    sudo apt-get install git
-
+{% highlight shell %}
+sudo apt-get install git
+{% endhighlight %}
 
 Após isso, o Git já estará instalado em seu sistema. Se bem me lembro, há uma configuração inicial que deve ser feita para setar nome e email :
 
-
-    git config --global user.name " Seu Nome"
-    git config --global user.email "Seu Email"
-
+{% highlight shell %}
+git config --global user.name " Seu Nome"
+git config --global user.email "Seu Email"
+{% endhighlight %}
 
 Em sequência, teremos devidamente configurado um ambiente com Git .
 

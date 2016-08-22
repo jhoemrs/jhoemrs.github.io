@@ -30,7 +30,7 @@ Estes 5 comandos básicos do git serão explanados abaixo, o git possui diversos
 
 Git Init
 --------
-{% highlight ruby %}
+{% highlight shell %}
 git init
 {% endhighlight %}
 
@@ -40,14 +40,13 @@ Quando criamos um novo repositório como na imagem abaixo é visível que nos de
 
 <figure>
 	<img src="{{ site.url }}/images/bancoPostagens/usandogit/repositorionovo.jpeg">
-	<figcaption><a data-toggle="tooltip" title="Criando novo repositório.">Novo Repositório no Github</a></figcaption>
 </figure>
 
 Não se preocupe por agora com os comandos seguintes, rapidamente veremos todos eles.
 
 Git Clone
 ---------
-{% highlight ruby %}
+{% highlight shell %}
 git clone LINKDOREPOSITORRIO
 {% endhighlight %}
 
@@ -55,7 +54,6 @@ Onde encontrar o `LINKDOREPOSITORIO` ?
 
 <figure>
 	<img src="{{ site.url }}/images/bancoPostagens/usandogit/ondeclonar.jpg">
-	<figcaption><a data-toggle="tooltip" title="Link para Clonar o Repositorio.">Encontre facilmente o link do Repositorio</a></figcaption>
 </figure>
 
 Ao realizar o `GIT CLONE`, você estará realizando uma cópia do repositório em questão, ou como o nome já diz, uma clonagem.
@@ -64,14 +62,13 @@ Ao clonar um repositório git o mesmo já vira inicializado, **não** sendo **ne
 
 Git Add
 -------
-{% highlight ruby %}
+{% highlight shell %}
 git add NomeDoArquivo.extensao
 git add -a
 {% endhighlight %}
 
 <figure>
 	<img src="{{ site.url }}/images/bancoPostagens/usandogit/jackestripador.jpg">
-	<figcaption><a data-toggle="tooltip" title="Jack diz: Vamos por Partes.">Jack, o Estripador</a></figcaption>
 </figure>
 
 Como diria Jack nosso amigo acima, vamos por partes:
@@ -84,7 +81,7 @@ Seguiremos nesta ordem, após adicionar os arquivos precisamos commitar o que no
 
 Git Commit
 ----------
-{% highlight ruby %}
+{% highlight shell %}
 git commit -m "Mensagem sobre o que se trata seu commit."
 {% endhighlight %}
 
@@ -96,7 +93,7 @@ O que nos leva a empurrar este `Commit` para lá com nosso `PUSH` !
 
 Git Push
 --------
-{% highlight ruby %}
+{% highlight shell %}
 git push origin BRANCHDESTINO
 {% endhighlight %}
 
@@ -106,7 +103,7 @@ Então escolha bem o branch que estiver trabalhando e jogue seu commit para ele.
 
 Git Pull
 --------
-{% highlight ruby %}
+{% highlight shell %}
 git pull
 git pull origin BRANCHRECEBEDOR
 {% endhighlight %}
@@ -117,12 +114,11 @@ Para este exemplo vou utilizar você e mais 1 amigo.
 O seu trabalho é fazer uma caixa, o do seu amigo é colocar uma cerveja na caixa.
 
 <figure>
-	<img height="50%" width="50%" src="{{ site.url }}/images/bancoPostagens/usandogit/caixacerveja.png">
-	<figcaption><a data-toggle="tooltip" title="Uma deliciosa, caixa com cerveja">Ambos fizeram PUSH & PULL</a></figcaption>
+	<img style="width:40%;height: auto;" src="{{ site.url }}/images/bancoPostagens/usandogit/caixacerveja.png">
 </figure>
 
 O repositório já está criado, você faz sua caixa, adiciona os arquivos, o commita, e faz push para o servidor.  
-{% highlight ruby %}
+{% highlight shell %}
 git add caixa.box
 git commit -m "[DEV] Caixa e seu compartimento."
 git push origin master
@@ -133,7 +129,7 @@ Neste momento, seu amigo ainda não sabe que sua caixa está pronta, para recebe
 Ao realizar o `PULL` e ver sua caixa, ele realiza seu trabalho e coloca a cerveja.
 Para enviar a cerveja pro servidor seu amigo realizará :
 
-{% highlight ruby %}
+{% highlight shell %}
 git add cervejeiro.beer
 git commit -m "[DEV] Cerveja e seus beneficios."
 git push origin master
