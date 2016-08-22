@@ -73,6 +73,6 @@ Nas próximas postagens faremos nosso Bundle, e nosso Hello World Personalizado.
 
 Se você chegou aqui e não entendeu nada e não tem seu Symfony configurado, acompanhe as Postagens Anteriores...
 
-<a href="http://jhoemrs.github.io/desenvolvimento/composerInstall" class="btn btn-primary btn-sm">1 - Composer Install</a>
-<a href="http://jhoemrs.github.io/desenvolvimento/symfonyInstall" class="btn btn-primary btn-sm">2 - Symfony Install</a>
-<a href="http://jhoemrs.github.io/desenvolvimento/iniciandoProjetoSymfony" class="btn btn-primary btn-sm">3 - Iniciando Projeto Symfony</a>
+<a href="http://jhoemrs.github.io/composerInstall" class="btn btn-primary btn-sm">1 - Composer Install</a>
+<a href="http://jhoemrs.github.io/symfonyInstall" class="btn btn-primary btn-sm">2 - Symfony Install</a>
+<a href="http://jhoemrs.github.io/iniciandoProjetoSymfony" class="btn btn-primary btn-sm">3 - Iniciando Projeto Symfony</a>
