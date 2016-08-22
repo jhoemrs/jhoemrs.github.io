@@ -4,7 +4,7 @@ bio:                'Um Site Minimalista Sobre Meu Mundo na Programação.'
 description:        'Guia Programador é um site desenvolvido por Jhonatan Mark, para expor suas idéias e aprendizados sobre Programação. PHP | Symfony | Bootstrap | Git | Etc.'
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo2.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
