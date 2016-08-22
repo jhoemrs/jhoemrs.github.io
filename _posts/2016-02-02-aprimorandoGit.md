@@ -5,7 +5,7 @@ excerpt: "Clone, Init, Add, Commit, Push, Pull , não sabe o que é ? Venha apre
 tags:
  - GitHub
  - Git
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/aprimorandoGit/aprimorandoGit.jpg
 comments: true
 ---
 

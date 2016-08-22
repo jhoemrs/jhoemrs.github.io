@@ -5,7 +5,7 @@ excerpt: "Ensinar o mesmo conteúdo para pessoas diferentes? Pode ser necessári
 tags:
  - Pessoal
  - Pensamentos
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/istoEstaSaturado/istoEstaSaturado.jpg
 comments: true
 ---
 
