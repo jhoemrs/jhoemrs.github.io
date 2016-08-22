@@ -19,8 +19,9 @@ A experiência aqui está me deixando disposto a migrar as minhas antigas postag
 
 E o que quero dizer com estrutura estática ?!
 <figure>
-	<img height="50%" width="50%" src="{{ site.url }}/images/bancoPostagens/firstcommit/jekyll.png">
-	<figcaption><a href="https://www.jekyllrb.com/" data-toggle="tooltip" title="Visite o site do Jekyll">Jekyll</a></figcaption>
+	<a href="https://www.jekyllrb.com/" data-toggle="tooltip" title="Visite o site do Jekyll">
+      <img  style="width:40%;height: auto;" src="{{ site.url }}/images/bancoPostagens/firstcommit/jekyll.png">
+  </a>
 </figure>
 Para entender como isso tudo funciona conheça o **[Jekyll](https://jekyllrb.com/)**
 , abaixo segue a descrição oferecida pelos desenvolvedores para um breve resumo:
@@ -41,8 +42,9 @@ Não recomendo o uso mais avançado para não familiarizados com programação. 
 Com um pouco de dedicação certamente aprenderá como tudo funciona rapidamente.
 
 <figure>
-	<img src="{{ site.url }}/images/bancoPostagens/firstcommit/github.png" height="50%" width="50%">
-	<figcaption><a href="https://www.github.com/" data-toggle="tooltip" title="Visite o site do GitHub">GitHub</a></figcaption>
+	<a href="https://www.github.com/" data-toggle="tooltip" title="Visite o site do GitHub">
+    <img style="width:40%;height: auto;" src="{{ site.url }}/images/bancoPostagens/firstcommit/github.png" height="50%" width="50%">
+  </a>
 </figure>
 
 Bom, seguindo na mesma linha todo mundo deve conhecer a ferramenta de versionamento mais famosa do planeta: o **Git** e a plataforma *Open ( ou não )* **[GitHub](http://www.github.com)** .
@@ -54,4 +56,4 @@ Bom, seguindo na mesma linha todo mundo deve conhecer a ferramenta de versioname
 Fiquem ligados nas próximas postagens.  
 Farei tutoriais de como utilizar esta ferramenta disponibilizada gratuitamente que aumentará suas *skills* como programador e a satisfação de produzir novos conteúdos para a internet e ajudar pessoas !
 
-####Um abraço e obrigado!!!####
+**Um abraço e obrigado!!!***
