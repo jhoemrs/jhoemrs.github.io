@@ -5,7 +5,7 @@ excerpt: "Como resolver simples algoritmos em Python."
 tags:
  - Python
  - Exercicios
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/exerciciosPython1/exerciciosPython1.png
 comments: true
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Resolva Algoritmos Simples com Python."
 tags:
  - Python
  - Exercicios
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: images/postagens/exerciciosPython2/exerciciosPython2.png
 comments: true
 ---
 
