@@ -20,7 +20,6 @@ Primeiro vamos limpar o Bundle que já veio com nosso projeto.
 
 <figure>
 	<img src="{{ site.url }}/images/bancoPostagens/novoBundle/limparPastasAppKernel.png">
-	<figcaption><a data-toggle="tooltip" title="Limpando a estrutura.">Limpe AppKernel + Apague Pastas</a></figcaption>
 </figure>
 
 Para limpar o Bundle antigo apague-o do AppKernel e exclua as duas pastas AppBundle que estão selecionadas também na imagem acima, o próximo passo é limpar nosso routing.yml conforme imagem abaixo.

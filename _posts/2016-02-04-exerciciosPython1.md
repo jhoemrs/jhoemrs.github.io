@@ -21,12 +21,12 @@ O que mostrarei abaixo são códigos de algoritmos básicos que se quiserem comp
 Todos os exercícios abaixo são algoritmos simples! Não sabe o que é **[Algoritmo](https://pt.wikipedia.org/wiki/Algoritmo)** ?
 
 >
-    algoritmo
-    substantivo masculino
-        1.
-        mat sequência finita de regras, raciocínios ou operações que, aplicada a um número finito de dados, permite solucionar classes semelhantes de problemas.
-        2.
-        inf conjunto das regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de etapas.
+algoritmo
+substantivo masculino
+    1.
+    mat sequência finita de regras, raciocínios ou operações que, aplicada a um número finito de dados, permite solucionar classes semelhantes de problemas.
+    2.
+    inf conjunto das regras e procedimentos lógicos perfeitamente definidos que levam à solução de um problema em um número finito de etapas.
 
 1) Faça um programa que peça dois números inteiros e imprima a soma de dois números:
 

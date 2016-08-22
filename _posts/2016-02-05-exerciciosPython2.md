@@ -17,8 +17,7 @@ Espero que consigam compreender , e que sirva de exemplo para vocês !
 E programar em Python é muito simples tente você também !
 
 <figure>
-	<img src="{{ site.url }}/images/bancoPostagens/listapython1/snakepython.png">
-	<figcaption><a data-toggle="tooltip" title="Python é Fácil até para Zumbis!">Programe Em Python !</a></figcaption>
+	<img style="width:40%;height: auto;" src="{{ site.url }}/images/bancoPostagens/listapython1/snakepython.png">
 </figure>
 
 1) Faça um Programa que peça os três lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno:

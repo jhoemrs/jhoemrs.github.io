@@ -17,7 +17,6 @@ Esta resposta pode ser uma Página, JSON, ARRAY, XML, IMAGEM ou qualquer coisa q
 Este é o nosso Controller atual:
 <figure>
 	<img src="{{ site.url }}/images/bancoPostagens/symfonyController/controllerInicial.png">
-	<figcaption><a data-toggle="tooltip" title="Como nós deixamos na última aula.">Controller Inicial</a></figcaption>
 </figure>
 
 Primeira percepção que temos que ter é que muita coisa no Symfony pode e irá ser feita nos comentários das funções, sendo assim analisaremos o primeiro **@Route("/")** .
@@ -25,7 +24,6 @@ Como o nome já diz essa é a nossa rota, se alterarmos seu valor, devemos alter
 
 <figure>
 	<img src="{{ site.url }}/images/bancoPostagens/symfonyController/noRouteFound.png">
-	<figcaption><a data-toggle="tooltip" title="Erro Symfony.">Symfony Error</a></figcaption>
 </figure>
 
 **Symfony** é amigável com seus erros, mas fuja deste Fantasma, literalmente !
