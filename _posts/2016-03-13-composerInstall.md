@@ -16,7 +16,7 @@ Já aprendemos o básico sobre git, e logo iniciaremos algumas postagens sobre S
 Eis então o Composer:
 
 <figure>
-	<a href="https://getcomposer.org/download/" data-toggle="tooltip" title="Eis o Maestro">
+	<a href="https://getcomposer.org/download/" data-toggle="tooltip" title="Clique para Download">
 		<img src="{{ site.url }}/images/bancoPostagens/composerInstall/composerLogo.png">
 	</a>
 </figure>
@@ -39,21 +39,21 @@ Ao chamar este comando verá a lista de opções que ele te trará:
 Você tem este arquivo numa pasta e tem que chama-lo diretamente, o que é uma chatice, então como proceder para ele estar disponivel em qualquer lugar na sua máquina, em qualquer pasta, bom tornaremos este comando possível Globalmente.
 
 Para isso execute os seguintes passos na pasta onde está localizado seu *composer.phar*:
-{% highlight shell %}
+{% highlight bash %}
 sudo chmod +x composer.phar
 {% endhighlight %}
 
 Assim estamos tornando executável o composer.phar .
 Logo após precisamos move-lo para ser chamado globalmente, execute:
-{% highlight shell %}
+{% highlight bash %}
 sudo mv composer.phar /bin/
 {% endhighlight %}
 
 Logo após move-lo para a pasta /bin/ poderemos fazer sua chamada.
 Já não é mais necessário colocar o php antes, podendo ser chamado diretamente.
 
-{% highlight shell %}
-    composer.phar
+{% highlight bash %}
+composer.phar
 {% endhighlight %}
 
 Sendo assim temos nosso composer disponivel para qualquer projeto em qualquer pasta e momento.
