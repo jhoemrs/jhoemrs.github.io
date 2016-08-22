@@ -11,7 +11,7 @@ comments: true
 
 **Git** é o nosso assunto de hoje !
 
-No tópico anterior **[Instalando Git e Github](http://jhoemrs.github.io/desenvolvimento/usando-git-github)** demonstrei uma maneira bem fácil de instalar e ter em sua máquina o Git, que é a ferramenta para manipularmos nossos repositórios.  
+No tópico anterior **[Instalando Git e Github](http://jhoemrs.github.io/usandoGiteGithub)** demonstrei uma maneira bem fácil de instalar e ter em sua máquina o Git, que é a ferramenta para manipularmos nossos repositórios.  
 Também foi falado das diferenças entre `Git` e `Github` e o que é cada um.
 
 Além dos 2 comandos de configuração de `user` e `email`, não tivemos um verdadeiro contato com `Git` !

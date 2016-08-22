@@ -10,7 +10,7 @@ comments: true
 
 Como Iniciar um Projeto em Symfony
 
-Já temos nosso **[SYMFONY](http://jhoemrs.github.io/desenvolvimento/symfonyInstall)** instalado com nosso **[COMPOSER](http://jhoemrs.github.io/desenvolvimento/composerInstall)** configurado, bom vamos lá.
+Já temos nosso **[SYMFONY](http://jhoemrs.github.io/symfonyInstall)** instalado com nosso **[COMPOSER](http://jhoemrs.github.io/composerInstall)** configurado, bom vamos lá.
 
 Sempre utilizei desde que comecei a aprender o Symfony a versão 2.* porém para acompanhar a evolução estarei aprendendo e buscando com vocês as mudanças do Symfony 3 !
 
@@ -73,7 +73,7 @@ E teremos a seguinte estrutura de pastas:
  <img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/estruturaPastas.png">
 </figure>
 
-Temos o detalhe do **Composer.json** neste JSON contém todas as dependências que são necessárias para rodar este projeto, como já temos nosso **[COMPOSER](http://jhoemrs.github.io/desenvolvimento/composerInstall)** configurado , só precisamos executá-lo com o comando **install** para instalarmos as dependências!
+Temos o detalhe do **Composer.json** neste JSON contém todas as dependências que são necessárias para rodar este projeto, como já temos nosso **[COMPOSER](http://jhoemrs.github.io/composerInstall)** configurado , só precisamos executá-lo com o comando **install** para instalarmos as dependências!
 <figure>
  <img src="{{ site.url }}/images/bancoPostagens/iniciandoProjetoSymfony/composerInstall.png">
 </figure>

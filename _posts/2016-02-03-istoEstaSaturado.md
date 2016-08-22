@@ -11,7 +11,7 @@ comments: true
 
 Comecei a escrever para este blog como iniciativa pessoal, no intuito de ajudar alguém e incentivar as pessoas as compartilharem seus conhecimentos.
 
-As duas primeiras postagens do blog foram sobre Git que podem ser conferidas **[AQUI (Instalação)](http://jhoemrs.github.io/desenvolvimento/usando-git-github)** e **[AQUI (Aprimoramento)](http://jhoemrs.github.io/desenvolvimento/aprimorandogit)** .
+As duas primeiras postagens do blog foram sobre Git que podem ser conferidas **[AQUI (Instalação)](http://jhoemrs.github.io/usandoGiteGithub)** e **[AQUI (Aprimoramento)](http://jhoemrs.github.io/aprimorandoGit)** .
 
 Postei em alguns lugares a publicação e em um âmbito geral foi muito bem aceita, acredito que pela linguagem informal e a simplicidade também dos tópicos abordados dão mais uma visão de aprendizagem aos que procuram sobre o assunto.
 
