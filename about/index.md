@@ -26,11 +26,10 @@ Também é de minha vontade fazer um produto de qualidade e rentável , sendo as
 >
 >Gerenciamento de Projetos
 >
->Inventividade | Criatividade
+>Inventividade & Criatividade
 
 
 Eu faço o que eu Amo.
-
 *E eu amo o que eu faço.*
 
 
