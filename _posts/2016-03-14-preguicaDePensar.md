@@ -25,8 +25,7 @@ Bom código não é apenas o necessário.
 
 E um bom programador não é só um bom código.
 <figure>
-	<img height="50%" width="50%" src="{{ site.url }}/images/bancoPostagens/preguicaDePensar/antolho.jpg">
-	<figcaption><a data-toggle="tooltip" title="Tire isso do seu rosto !">Aprenda a Pensar !</a></figcaption>
+	<img style="width:40%;height: auto;" src="{{ site.url }}/images/bancoPostagens/preguicaDePensar/antolho.jpg">
 </figure>
 Conheço excelentes codificadores que tem alta produtividade, mas não considero um bom programador por causa de sua mente fechada.
 Não devemos nos ater apenas ao código, temos que saber como manter um projeto em andamento, o que o cliente quer e como ele quer, modelar e gerenciar estas regras, documentar e o conjunto de tudo isso faz um bom programador, um desenvolvedor confiavel que certamente após poucos projetos para seu chefe ou cliente deixarão sempre projetos para seu controle e execução sem preocupações, pois conhecem e confiam em suas capacidades.
