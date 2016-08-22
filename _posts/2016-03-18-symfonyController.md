@@ -67,7 +67,7 @@ Perceba que ela se encontra dentro da pasta **Default** , o que se relaciona dir
 
 **Importante**: As funções do Controller sempre terminam com Action, até hoje ainda não vi casos em que não se utilize este padrão, se há, ainda preciso aprender ;) !
 
-Após esta enxugada no código, preciso salientar caso você não siga o padrão do nome de pasta e função no nome da view, você pode dentro do **@Template()** chamar a view que deverá ser renderizada, como por exemplo :
+Após esta enxugada no código, preciso salientar caso você não siga o padrão do nome de pasta e função no nome da view, você pode dentro do **@Template()** chamar a view que deverá ser renderizada, como por exemplo:
 {% highlight php %}
 @Template("SensioBlogBundle:Post:show.html.twig")
 {% endhighlight %}
