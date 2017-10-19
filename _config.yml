@@ -1,10 +1,10 @@
 # Site
-title:              Guia Programador
+title:              Jhonatan Mark
 bio:                'Um Site Minimalista Sobre Meu Mundo na Programação.'
-description:        'Guia Programador é um site desenvolvido por Jhonatan Mark, para expor suas idéias e aprendizados sobre Programação. PHP | Symfony | Bootstrap | Git | Etc.'
+description:        'Este é meu blog/site para disseminar o conhecimento e compartilhar experiências'
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo2.png'
+logo:               'assets/img/perfil.jpg'
 background:         'assets/img/back-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
